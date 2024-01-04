@@ -10,3 +10,12 @@ Solution: In App.jsx the path for "Orders" was incorrect
 <img src='https://dj-project-previews.s3.amazonaws.com/updates/Screenshot+2024-01-02+121816.png'>
 -------------------------------------------------------------------------------
 ### 2 Jan 2024
+
+Spent some of the day reviewing the end of Jose Portilla's SQL course. Reviewed topics of NULLIF, Views, and Import-Export of files. 
+Went back to work on the Comfy Store and the bug resurfaced. Tried to look through code to see areas of error. Still thinking that this error must occur right upon action dispatch.
+Will try again when possible, will maybe try utilizing breakpoints to pin point the error. Just as before, cart icon is returning NaN, as are the cart totals. 
+-------------------------------------------------------------------------------
+### 3 Jan 2024 
+
+Didn't have a chance to make meaningful progress - was asked to come into work as the team was short staffed today. 
+Will continue bugfixing, and ideally make meaningful progress with Power Bi. 

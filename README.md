@@ -19,3 +19,14 @@ Will try again when possible, will maybe try utilizing breakpoints to pin point 
 
 Didn't have a chance to make meaningful progress - was asked to come into work as the team was short staffed today. 
 Will continue bugfixing, and ideally make meaningful progress with Power Bi. 
+-------------------------------------------------------------------------------
+### 4 Jan 2024 
+
+No luck with bugfixing today, and in order to finish the project it needs to be completed. 
+To try again this weekend.
+Progress made with Power BI: 
+Learning the difference (and similarities) between it and Excel -- also noting that they're built on top of the same analytics engine. 
+High level overiew of "Back-end" (Power Query Editor) and "Front-end" (Model view, data view, and report view) workflow.
+Went over different types of data connectors (flat files, databases, azire, online services, etc.) to see what is available. Will be working with .csv files for the course though. 
+Completed an introductory quiz:
+<img src="https://dj-project-previews.s3.amazonaws.com/updates/Screenshot+2024-01-04+230325.png">

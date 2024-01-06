@@ -30,3 +30,6 @@ High level overiew of "Back-end" (Power Query Editor) and "Front-end" (Model vie
 Went over different types of data connectors (flat files, databases, azire, online services, etc.) to see what is available. Will be working with .csv files for the course though. 
 Completed an introductory quiz:
 <img src="https://dj-project-previews.s3.amazonaws.com/updates/Screenshot+2024-01-04+230325.png">
+-------------------------------------------------------------------------------
+### 5 Jan 2024 
+No progress today, work + application, and personal responsibilities to attend to. 

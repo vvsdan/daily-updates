@@ -54,3 +54,10 @@ Completed practice #1 assignment of:
 ### 7 Jan 2024 
 Power BI: 
 Went over different storage and connection modes of: Import, DirectQuery, Composite Model, and Live Connection 
+Connecting to a database (i.e., MySQL)
+Extracting data from the web (practice example was scraping a table from a wikipedia page into Power BI)
+<img src="https://dj-project-previews.s3.amazonaws.com/updates/Screenshot+2024-01-07+231909.png">
+Data Profiling Tools: column quality, column distribution, and column profile 
+Rescanning column quality (initial 1000 rows) to entire dataset for higher accuracy rather than sample, then filtering to reach 100% validity.
+Viewing the errors in column quality (i.e., if there is conversion issue to whole number, invalid birthdates, etc).
+Explored column distributing to view sample distribution -- distinct and unique values 

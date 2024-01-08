@@ -61,3 +61,9 @@ Data Profiling Tools: column quality, column distribution, and column profile
 Rescanning column quality (initial 1000 rows) to entire dataset for higher accuracy rather than sample, then filtering to reach 100% validity.
 Viewing the errors in column quality (i.e., if there is conversion issue to whole number, invalid birthdates, etc).
 Explored column distributing to view sample distribution -- distinct and unique values 
+-------------------------------------------------------------------------------
+### 8 Jan 2024 
+Text tools - spltting text columns (i.e, based on delimiter or attributes), formatting text columns, and extracting characters from text 
+Formatted columns to Capitalize first letter, then combined columns with space being the separator. Example 3 columns MR. | DANIEL | JONES => Mr. | Daniel | Jones => Mr. Daniel Jones
+Completed an assignment to collect domain names of customer email addresses in a 18,000+ row table. Used in between delimiter to extract text between "@" and ".", replaced hyphens with spaces, and formatted as each word capitalized.
+Result: Example" jon24@adventure=works.com => Adventure Works 

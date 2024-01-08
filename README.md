@@ -50,4 +50,7 @@ Completed practice #1 assignment of:
 5) Manipulated column in step 4) to return all characters before a second dash ("-") using advanced options -> scan for the delimiter from the start of the input and skip 1 delimiter
 6) Replacing all zeroes (0) with "NA" within a column
 7) Closing and loading changes to data model
-
+-------------------------------------------------------------------------------
+### 7 Jan 2024 
+Power BI: 
+Went over different storage and connection modes of: Import, DirectQuery, Composite Model, and Live Connection 

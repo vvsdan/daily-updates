@@ -67,3 +67,11 @@ Text tools - spltting text columns (i.e, based on delimiter or attributes), form
 Formatted columns to Capitalize first letter, then combined columns with space being the separator. Example 3 columns MR. | DANIEL | JONES => Mr. | Daniel | Jones => Mr. Daniel Jones
 Completed an assignment to collect domain names of customer email addresses in a 18,000+ row table. Used in between delimiter to extract text between "@" and ".", replaced hyphens with spaces, and formatted as each word capitalized.
 Result: Example" jon24@adventure=works.com => Adventure Works 
+-------------------------------------------------------------------------------
+### 9 Jan 2024 
+Numeric Tools - Primarily explored statistic and standard functions. 
+Completed assignment given the tasks of: 
+Finding average product cost (average statistic)
+How many colors the product is sold in (count distinct values statistic)
+How many distinct customers there are (used the column from earlier day which appended title, first name, and last name. However, there needs to be the assumption that people may have the same first and last names by chance, therefore count distinct values on the Customer Key is most accurate as each key is unique). 
+Maximal annual customer income (Maximum value statistic on income column)

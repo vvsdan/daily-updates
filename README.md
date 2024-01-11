@@ -75,3 +75,7 @@ Finding average product cost (average statistic)
 How many colors the product is sold in (count distinct values statistic)
 How many distinct customers there are (used the column from earlier day which appended title, first name, and last name. However, there needs to be the assumption that people may have the same first and last names by chance, therefore count distinct values on the Customer Key is most accurate as each key is unique). 
 Maximal annual customer income (Maximum value statistic on income column)
+-------------------------------------------------------------------------------
+### 9 Jan 2024 
+Very little today, reviewed text/numeric tool slides.
+Read through the time/date tool slides, will watch the lectures tomorrow and do the practice assignment at the library. 

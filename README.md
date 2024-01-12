@@ -76,6 +76,21 @@ How many colors the product is sold in (count distinct values statistic)
 How many distinct customers there are (used the column from earlier day which appended title, first name, and last name. However, there needs to be the assumption that people may have the same first and last names by chance, therefore count distinct values on the Customer Key is most accurate as each key is unique). 
 Maximal annual customer income (Maximum value statistic on income column)
 -------------------------------------------------------------------------------
-### 9 Jan 2024 
+### 1 Jan 2024 
 Very little today, reviewed text/numeric tool slides.
 Read through the time/date tool slides, will watch the lectures tomorrow and do the practice assignment at the library. 
+-------------------------------------------------------------------------------
+### 11 Jan 2024 
+Continued with date and time tool lectures. Focused on manipulating date columns to display a variety of date options. 
+Used start of week, start of month, month name alone, etc based on original date in yyyy-mm-dd format (and explored options to change formatting of these dates). 
+Noted that locale can make a difference, for instance retrieving a data set from another country may require format adjusting (otherwise Power BI might recognize a month as a day and have errors looking for a 13th month). 
+Used blank query and creating a rolling calendar which updates each time the M code is run. 
+<img src="https://dj-project-previews.s3.amazonaws.com/updates/Screenshot+2024-01-11+191637.png">
+Completed an assignment in which given a column of dates (yyyy-mm-dd format) I had to: 
+1) Return the month name (simple date/time month function)
+2) Month number (function for this as well in date section)
+3) Start of the year (function for this too)
+4) Year (function for this too).
+After this I explored indexed columns which are pretty well similar to primary key in SQL as I can tell, unique IDs.
+Went over conditional columns which was using if/then statements for columns. For instance in an order quantity column if value "equals" 1 then return "Single Item", > 1 return "Multiple Items", else "Other" (to catch any error). 
+Finally, reviewed calculated column best practices -- most ideal to have column calculations happen at data source > power query > Power BI front end > published reports to optimize speed.

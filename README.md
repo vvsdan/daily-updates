@@ -49,51 +49,54 @@ Completed practice #1 assignment of:
 4) Adding a new column to extract all characters before a dash ("-") - delimiter
 5) Manipulated column in step 4) to return all characters before a second dash ("-") using advanced options -> scan for the delimiter from the start of the input and skip 1 delimiter
 6) Replacing all zeroes (0) with "NA" within a column
-7) Closing and loading changes to data model
+7) Closing and loading changes to the data model
 -------------------------------------------------------------------------------
 ### 7 Jan 2024 
 Power BI: 
-Went over different storage and connection modes of: Import, DirectQuery, Composite Model, and Live Connection 
+Went over different storage and connection modes of Import, DirectQuery, Composite Model, and Live Connection 
 Connecting to a database (i.e., MySQL)
-Extracting data from the web (practice example was scraping a table from a wikipedia page into Power BI)
+Extracting data from the web (practice example was scraping a table from a Wikipedia page into Power BI)
 <img src="https://dj-project-previews.s3.amazonaws.com/updates/Screenshot+2024-01-07+231909.png">
 Data Profiling Tools: column quality, column distribution, and column profile 
-Rescanning column quality (initial 1000 rows) to entire dataset for higher accuracy rather than sample, then filtering to reach 100% validity.
-Viewing the errors in column quality (i.e., if there is conversion issue to whole number, invalid birthdates, etc).
+Rescanning column quality (initial 1000 rows) to the entire dataset for higher accuracy rather than a sample, then filtering to reach 100% validity.
+Viewing the errors in column quality (i.e., if there is a conversion issue to whole number, invalid birthdates, etc).
 Explored column distributing to view sample distribution -- distinct and unique values 
 -------------------------------------------------------------------------------
 ### 8 Jan 2024 
-Text tools - spltting text columns (i.e, based on delimiter or attributes), formatting text columns, and extracting characters from text 
-Formatted columns to Capitalize first letter, then combined columns with space being the separator. Example 3 columns MR. | DANIEL | JONES => Mr. | Daniel | Jones => Mr. Daniel Jones
-Completed an assignment to collect domain names of customer email addresses in a 18,000+ row table. Used in between delimiter to extract text between "@" and ".", replaced hyphens with spaces, and formatted as each word capitalized.
+Text tools - splitting text columns (i.e, based on delimiter or attributes), formatting text columns, and extracting characters from the text 
+Formatted columns to Capitalize the first letter, then combined columns with space being the separator. Example 3 columns MR. | DANIEL | JONES => Mr. | Daniel | Jones => Mr. Daniel Jones
+Completed an assignment to collect domain names of customer email addresses in a 18,000+ row table. Used in-between delimiter to extract text between "@" and ".", replaced hyphens with spaces, and formatted as each word capitalized.
 Result: Example" jon24@adventure=works.com => Adventure Works 
 -------------------------------------------------------------------------------
 ### 9 Jan 2024 
-Numeric Tools - Primarily explored statistic and standard functions. 
+Numeric Tools - Primarily explored statistics and standard functions. 
 Completed assignment given the tasks of: 
 Finding average product cost (average statistic)
 How many colors the product is sold in (count distinct values statistic)
-How many distinct customers there are (used the column from earlier day which appended title, first name, and last name. However, there needs to be the assumption that people may have the same first and last names by chance, therefore count distinct values on the Customer Key is most accurate as each key is unique). 
+How many distinct customers there are (used the column from the earlier day which appended title, first name, and last name. However, there needs to be the assumption that people may have the same first and last names by chance, therefore count distinct values on the Customer Key is most accurate as each key is unique). 
 Maximal annual customer income (Maximum value statistic on income column)
 -------------------------------------------------------------------------------
 ### 10 Jan 2024 
 Very little today, reviewed text/numeric tool slides.
-Read through the time/date tool slides, will watch the lectures tomorrow and do the practice assignment at the library. 
+Read through the time/date tool slides, watch the lectures tomorrow, and do the practice assignment at the library. 
 -------------------------------------------------------------------------------
 ### 11 Jan 2024 
 Continued with date and time tool lectures. Focused on manipulating date columns to display a variety of date options. 
-Used start of week, start of month, month name alone, etc based on original date in yyyy-mm-dd format (and explored options to change formatting of these dates). 
-Noted that locale can make a difference, for instance retrieving a data set from another country may require format adjusting (otherwise Power BI might recognize a month as a day and have errors looking for a 13th month). 
-Used blank query and creating a rolling calendar which updates each time the M code is run. 
+Used start of the week, the start of the month, month name alone, etc based on the original date in yyyy-mm-dd format (and explored options to change the formatting of these dates). 
+Noted that locale can make a difference, for instance, retrieving a data set from another country may require format adjusting (otherwise Power BI might recognize a month as a day and have errors looking for a 13th month). 
+Used blank query and created a rolling calendar that updates each time the M code is run. 
 <img src="https://dj-project-previews.s3.amazonaws.com/updates/Screenshot+2024-01-11+191637.png">
 Completed an assignment in which given a column of dates (yyyy-mm-dd format) I had to: 
 1) Return the month name (simple date/time month function)
-2) Month number (function for this as well in date section)
+2) Month number (function for this as well in the date section)
 3) Start of the year (function for this too)
 4) Year (function for this too).
-After this I explored indexed columns which are pretty well similar to primary key in SQL as I can tell, unique IDs.
-Went over conditional columns which was using if/then statements for columns. For instance in an order quantity column if value "equals" 1 then return "Single Item", > 1 return "Multiple Items", else "Other" (to catch any error). 
+After this, I explored indexed columns which are pretty well similar to the primary key in SQL as I can tell, unique IDs.
+Went over conditional columns which used if/then statements for columns. For instance in an order quantity column if value "equals" 1 then return "Single Item", > 1 return "Multiple Items", else "Other" (to catch any error). 
 Finally, reviewed calculated column best practices -- most ideal to have column calculations happen at data source > power query > Power BI front end > published reports to optimize speed.
 -------------------------------------------------------------------------------
 ### 12 Jan 2024 
-Power BI: Main topics today were grouping & aggregating, pivoting & unpivoting, and merging queries. Grouping was a similar concept learned during my PostgreSQL course, where for instance a total quantity of products was being grouped by product key using the Group By and then Sum operation. Also explored the advanced option which was grouping by Total Quantity of products by Product Key and Customer Key. Again, similar concepts to PostgreSQL's group by. Next, I went over pivoting and unpivoting which was essentially rotating distinct row values into columns (pivoting), or distinct columns into rows. Reviewed the transpose option as well, which was somewhat similar but doesn't recongize unique values. Transformed the entire table so that each row becomes a column or vice versa. Finally, learned about merging queries which was similar to PostgreSQL. Completed a left outer join using the merge queries option based on a product key column shared in two different tables. The goal tomorrow is to complete this "Connecting & Shaping Data" section and move onto "Creating a Data Model". 
+Power BI: The main topics today were grouping & aggregating, pivoting & unpivoting, and merging queries. Grouping was a similar concept learned during my PostgreSQL course, where for instance a total quantity of products was being grouped by product key using the Group By and then Sum operation. Also explored was the advanced option which was grouping by Total Quantity of products by Product Key and Customer Key. Again, similar concepts to PostgreSQL's group. Next, I went over pivoting and unpivoting which was essentially rotating distinct row values into columns (pivoting), or distinct columns into rows. Reviewed the transpose option as well, which was somewhat similar but didn't recognize unique values. Transformed the entire table so that each row becomes a column or vice versa. Finally, learned about merging queries which was similar to PostgreSQL. Completed a left outer join using the merge queries option based on a product key column shared in two different tables. The goal tomorrow is to complete this "Connecting & Shaping Data" section and move on to "Creating a Data Model".
+-------------------------------------------------------------------------------
+### 13 Jan 2024 
+Explored the append query on my work lunch break. This was similar to merging queries but instead of expanding horizontally, the table is expanding vertically by adding more rows. The tables have to be quite comparable (i.e., same columns with compatible data types), otherwise, error or null values could occur. The first append was done by connecting 3 different .csv files and then merging them. This caused the merged table to have a dependency on the 3 individual tables, they could not be deleted. And redundant tables showing in the Queries tab. The next option explored was connecting to the Folder data type which contained the 3 tables for a more clean method to get a similar result as using the append option. 

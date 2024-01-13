@@ -76,7 +76,7 @@ How many colors the product is sold in (count distinct values statistic)
 How many distinct customers there are (used the column from earlier day which appended title, first name, and last name. However, there needs to be the assumption that people may have the same first and last names by chance, therefore count distinct values on the Customer Key is most accurate as each key is unique). 
 Maximal annual customer income (Maximum value statistic on income column)
 -------------------------------------------------------------------------------
-### 1 Jan 2024 
+### 10 Jan 2024 
 Very little today, reviewed text/numeric tool slides.
 Read through the time/date tool slides, will watch the lectures tomorrow and do the practice assignment at the library. 
 -------------------------------------------------------------------------------
@@ -94,3 +94,6 @@ Completed an assignment in which given a column of dates (yyyy-mm-dd format) I h
 After this I explored indexed columns which are pretty well similar to primary key in SQL as I can tell, unique IDs.
 Went over conditional columns which was using if/then statements for columns. For instance in an order quantity column if value "equals" 1 then return "Single Item", > 1 return "Multiple Items", else "Other" (to catch any error). 
 Finally, reviewed calculated column best practices -- most ideal to have column calculations happen at data source > power query > Power BI front end > published reports to optimize speed.
+-------------------------------------------------------------------------------
+### 12 Jan 2024 
+Power BI: Main topics today were grouping & aggregating, pivoting & unpivoting, and merging queries. Grouping was a similar concept learned during my PostgreSQL course, where for instance a total quantity of products was being grouped by product key using the Group By and then Sum operation. Also explored the advanced option which was grouping by Total Quantity of products by Product Key and Customer Key. Again, similar concepts to PostgreSQL's group by. Next, I went over pivoting and unpivoting which was essentially rotating distinct row values into columns (pivoting), or distinct columns into rows. Reviewed the transpose option as well, which was somewhat similar but doesn't recongize unique values. Transformed the entire table so that each row becomes a column or vice versa. Finally, learned about merging queries which was similar to PostgreSQL. Completed a left outer join using the merge queries option based on a product key column shared in two different tables. The goal tomorrow is to complete this "Connecting & Shaping Data" section and move onto "Creating a Data Model". 

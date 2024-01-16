@@ -106,3 +106,6 @@ Power BI: Completed connecting and shaping data section. Today I went over data 
 Looked into importing Excel models into Power BI which explained that if there is preferenc to do some work in Excel, it's possible to import the model. The benefit here is that the calculations, relationships, etc. in Excel will carry into Power BI which you can then use for modeling. 
 Finally, completed a quiz on the section. 
 <img src="https://dj-project-previews.s3.amazonaws.com/updates/Screenshot+2024-01-14+234937.png">
+-------------------------------------------------------------------------------
+### 15 Jan 2024 
+Power BI: Started the introduction for creating data models. The introduction focused on the point that even in the Power BI model view, currently there are no data models at this point. Reason being, no relationships between tables have been connected yet. Briefly went over the topic of data normalization. This process helps for eliminating redundant data, minimizing errors, and simplifying queries. This points to one reason why each table should have their own distinct purpose, and then relationships can be set up as needed. 

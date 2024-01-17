@@ -2,25 +2,25 @@
 
 This repo/README file is meant to serve as a journey for documenting work I do daily, problems solved, tasks completed, or challenges faced in my learning. 
 
-### 1 Jan 2024 
+### 1 Jan 2024   
 
 In the comfy store project, there was a NaN error being produced when adding items to the cart. In the web application, the error appeared in the Navbar Cart icon which was to indicate the number of items in the cart. The same error carried over for other dynamic values such as in the checkout page, when calculating the shipping totals (everything produced NaN except the static shipping price). 
 Initially, I thought this error was in the store.js file OR the cartSlice.js file where state values were stored, or being incremented, edited, etc. 
 Solution: In App.jsx the path for "Orders" was incorrect
 <img src='https://dj-project-previews.s3.amazonaws.com/updates/Screenshot+2024-01-02+121816.png'>
 -------------------------------------------------------------------------------
-### 2 Jan 2024
+### 2 Jan 2024   
 
 Spent some of the day reviewing the end of Jose Portilla's SQL course. Reviewed topics of NULLIF, Views, and Import-Export of files.  
 Went back to work on the Comfy Store and the bug resurfaced. Tried to look through the code to see areas of error. Still think that this error must occur right upon action dispatch.  
 Will try again when possible, will maybe try utilizing breakpoints to pinpoint the error. Just as before, the cart icon is returning NaN, as are the cart totals.  
 -------------------------------------------------------------------------------
-### 3 Jan 2024 
+### 3 Jan 2024    
 
 Didn't have a chance to make meaningful progress - was asked to come into work as the team was short-staffed today.   
 Will continue bugfixing, and ideally make meaningful progress with Power BI.   
 -------------------------------------------------------------------------------
-### 4 Jan 2024
+### 4 Jan 2024   
 
 No luck with bugfixing today, and to finish the project it needs to be completed.   
 To try again this weekend.  
@@ -31,11 +31,11 @@ Went over different types of data connectors (flat files, databases, azure, onli
 Completed an introductory quiz:  
 <img src="https://dj-project-previews.s3.amazonaws.com/updates/Screenshot+2024-01-04+230325.png">
 -------------------------------------------------------------------------------
-### 5 Jan 2024
+### 5 Jan 2024   
 
 No progress today, work + application, and personal responsibilities to attend to. 
 -------------------------------------------------------------------------------
-### 6 Jan 2024 
+### 6 Jan 2024   
 
 Power BI:   
 Exploring Query Editing Tools  
@@ -53,7 +53,7 @@ Completed practice #1 assignment of:
 6) Replacing all zeroes (0) with "NA" within a column  
 7) Closing and loading changes to the data model  
 -------------------------------------------------------------------------------
-### 7 Jan 2024 
+### 7 Jan 2024   
 
 Power BI:   
 Went over different storage and connection modes of Import, DirectQuery, Composite Model, and Live Connection   
@@ -65,14 +65,14 @@ Rescanning column quality (initial 1000 rows) to the entire dataset for higher a
 Viewing the errors in column quality (i.e., if there is a conversion issue to whole number, invalid birthdates, etc).  
 Explored column distributing to view sample distribution -- distinct and unique values   
 -------------------------------------------------------------------------------
-### 8 Jan 2024 
+### 8 Jan 2024   
 
 Text tools - splitting text columns (i.e, based on delimiter or attributes), formatting text columns, and extracting characters from the text   
 Formatted columns to Capitalize the first letter, then combined columns with space being the separator. Example 3 columns MR. | DANIEL | JONES => Mr. | Daniel | Jones => Mr. Daniel Jones  
 Completed an assignment to collect domain names of customer email addresses in a 18,000+ row table. Used in-between delimiter to extract text between "@" and ".", replaced hyphens with spaces, and formatted as each word capitalized.  
 Result: Example" jon24@adventure=works.com => Adventure Works   
 -------------------------------------------------------------------------------
-### 9 Jan 2024 
+### 9 Jan 2024   
 
 Numeric Tools - Primarily explored statistics and standard functions.   
 Completed assignment given the tasks of:   
@@ -81,12 +81,12 @@ How many colors the product is sold in (count distinct values statistic)
 How many distinct customers there are (used the column from the earlier day which appended title, first name, and last name. However, there needs to be the assumption that people may have the same first and last names by chance, therefore count distinct values on the Customer Key is most accurate as each key is unique).   
 Maximal annual customer income (Maximum value statistic on income column)  
 -------------------------------------------------------------------------------
-### 10 Jan 2024 
+### 10 Jan 2024   
 
 Very little today, reviewed text/numeric tool slides.  
 Read through the time/date tool slides, watch the lectures tomorrow, and do the practice assignment at the library.   
 -------------------------------------------------------------------------------
-### 11 Jan 2024 
+### 11 Jan 2024   
 
 Continued with date and time tool lectures. Focused on manipulating date columns to display a variety of date options.   
 Used start of the week, the start of the month, month name alone, etc based on the original date in yyyy-mm-dd format (and explored options to change the formatting of these dates).   
@@ -102,26 +102,26 @@ After this, I explored indexed columns which are pretty well similar to the prim
 Went over conditional columns which used if/then statements for columns. For instance in an order quantity column if value "equals" 1 then return "Single Item", > 1 return "Multiple Items", else "Other" (to catch any error).   
 Finally, reviewed calculated column best practices -- most ideal to have column calculations happen at data source > power query > Power BI front end > published reports to optimize speed.  
 -------------------------------------------------------------------------------
-### 12 Jan 2024 
+### 12 Jan 2024   
 
 Power BI: The main topics today were grouping & aggregating, pivoting & unpivoting, and merging queries. Grouping was a similar concept learned during my PostgreSQL course, where for instance a total quantity of products was being grouped by product key using the Group By and then Sum operation. Also explored was the advanced option which was grouping by Total Quantity of products by Product Key and Customer Key. Again, similar concepts to PostgreSQL's group. Next, I went over pivoting and unpivoting which was essentially rotating distinct row values into columns (pivoting), or distinct columns into rows. Reviewed the transpose option as well, which was somewhat similar but didn't recognize unique values. Transformed the entire table so that each row becomes a column or vice versa. Finally, learned about merging queries which was similar to PostgreSQL. Completed a left outer join using the merge queries option based on a product key column shared in two different tables. The goal tomorrow is to complete this "Connecting & Shaping Data" section and move on to "Creating a Data Model".
 -------------------------------------------------------------------------------
-### 13 Jan 2024 
+### 13 Jan 2024   
 
 Explored the append query on my work lunch break. This was similar to merging queries but instead of expanding horizontally, the table is expanding vertically by adding more rows. The tables have to be quite comparable (i.e., same columns with compatible data types), otherwise, error or null values could occur. The first append was done by connecting 3 different .csv files and then merging them. This caused the merged table to have a dependency on the 3 individual tables, they could not be deleted. And redundant tables showing in the Queries tab. The next option explored was connecting to the Folder data type which contained the 3 tables for a more clean method to get a similar result as using the append option.
 -------------------------------------------------------------------------------
-### 14 Jan 2024 
+### 14 Jan 2024   
 
 Power BI: Completed connecting and shaping data section. Today I went over data source settings, which was acknowledging that if something changed with the data source (i.e., changing a file name or path the query would break). Walked through steps to make Power BI look at the new updated data source whether it be a new path or name in the dats source settings. Next briefly went over managing different data source parameters to dynamically manage and update connection paths. Looked into refreshing queries which explained toggling off the "Include in report refresh". By default Power BI refreshes data for all queries. Disabling the refresh may be useful for tables that are static/updated infrequently, simply to save time.   
 Looked into importing Excel models into Power BI which explained that if there is preferenc to do some work in Excel, it's possible to import the model. The benefit here is that the calculations, relationships, etc. in Excel will carry into Power BI which you can then use for modeling.   
 Finally, completed a quiz on the section. 
 <img src="https://dj-project-previews.s3.amazonaws.com/updates/Screenshot+2024-01-14+234937.png">
 -------------------------------------------------------------------------------
-### 15 Jan 2024 
+### 15 Jan 2024   
 
 Power BI: Started the introduction for creating data models. The introduction focused on the point that even in the Power BI model view, currently there are no data models at this point. Reason being, no relationships between tables have been connected yet. Briefly went over the topic of data normalization. This process helps for eliminating redundant data, minimizing errors, and simplifying queries. This points to one reason why each table should have their own distinct purpose, and then relationships can be set up as needed. 
 -------------------------------------------------------------------------------
-### 16 Jan 2024
+### 16 Jan 2024  
 
 Power BI:  
 Continued through the creating a data model section, over 50% complete now.   

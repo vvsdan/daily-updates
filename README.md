@@ -157,7 +157,7 @@ Topics completed today:
 • Filter context & flow (filter context gets passed downstream)  
 
 -------------------------------------------------------------------------------
-### 16 Jan 2024  
+### 17 Jan 2024  
 
 Power BI:   
 • Completed an assignment in which *someone* messed with relationships causing Product Keys to disappear. Replicated the issue by temporarily changing relationships between the Product Lookup table's Product Key and Return Data table's Product Key to a bidirectional relationship. Replicated the error in which Product Key #338 was missing, changed relationship back to single direction.  

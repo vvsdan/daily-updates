@@ -173,3 +173,13 @@ Frontend: Reviewed JS questions today via GreatFrontEnd. Questions practiced:
 • Describing event delegation.  
 
 Moving forward, aiming to keep going through at least a few JS/React questions daily to stay sharp/refresh concepts. 
+
+-------------------------------------------------------------------------------
+### 18 Jan 2024
+
+No progress today due to personal matters.
+
+-------------------------------------------------------------------------------
+### 19 Jan 2024
+
+No progress today due to personal matters.

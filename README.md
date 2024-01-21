@@ -183,3 +183,13 @@ No progress today due to personal matters.
 ### 19 Jan 2024
 
 No progress today due to personal matters.
+
+-------------------------------------------------------------------------------
+### 18 Jan 2024
+Back today with Power BI, finished off the "Creating a Data Model" section, next up is working on "Calculated Fields with DAX"!   
+Topics covered today:  
+• Went over hierarchies and how to create them  
+• Completed assignment to creeate hierarchy within the Calendar table and add to hierachy by Start of Year > Start of Month > Start of Week > Date  
+• Reviewed data model best practices (focusing on building a normalized model from the start, organizing dimension tables above data tables (downstream visual), avoiding complex relationships unless necessary, and hiding fields from report view to prevent invalid filter context).  
+• Ended the section with a quiz  
+https://dj-project-previews.s3.amazonaws.com/updates/Screenshot+2024-01-20+232844.png

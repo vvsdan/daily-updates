@@ -185,7 +185,7 @@ No progress today due to personal matters.
 No progress today due to personal matters.
 
 -------------------------------------------------------------------------------
-### 18 Jan 2024
+### 20 Jan 2024
 Back today with Power BI, finished off the "Creating a Data Model" section, next up is working on "Calculated Fields with DAX"!   
 Topics covered today:  
 • Went over hierarchies and how to create them  
@@ -193,3 +193,13 @@ Topics covered today:
 • Reviewed data model best practices (focusing on building a normalized model from the start, organizing dimension tables above data tables (downstream visual), avoiding complex relationships unless necessary, and hiding fields from report view to prevent invalid filter context).  
 • Ended the section with a quiz  
 https://dj-project-previews.s3.amazonaws.com/updates/Screenshot+2024-01-20+232844.png
+
+-------------------------------------------------------------------------------
+### 21 Jan 2024  
+More Power BI with starting with the Calculated Fiekds with DAX section  
+Topics completed today  
+• M Code vs DAX  
+• Calculated columns intro  
+• DAX measures intro  
+• Implicit vs Explicit measures  
+• Quick measures  

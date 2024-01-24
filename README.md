@@ -206,9 +206,14 @@ Topics completed today
 
 -------------------------------------------------------------------------------
 ### 22 Jan 2024  
-Power BI topics completed today: 
-• Using dedicated measure tables 
-• Understanding filter context 
-• Going step by step through DAX measure calculations in an example 
-• Understanding DAX syntax and operators 
+Power BI topics completed today:  
+• Using dedicated measure tables  
+• Understanding filter context  
+• Going step by step through DAX measure calculations in an example  
+• Understanding DAX syntax and operators  
 
+-------------------------------------------------------------------------------
+### 23 Jan 2024  
+Power BI topics completed today:   
+• Went over the common DAX function categories 
+• Explored math and stats functions 

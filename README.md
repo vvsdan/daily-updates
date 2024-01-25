@@ -214,6 +214,11 @@ Power BI topics completed today:
 
 -------------------------------------------------------------------------------
 ### 23 Jan 2024  
-Power BI topics completed today:   
-• Went over the common DAX function categories 
-• Explored math and stats functions 
+Power BI topics completed today:    
+• Went over the common DAX function categories   
+• Explored math and stats functions   
+
+-------------------------------------------------------------------------------
+### 24 Jan 2024  
+Short day for Power BI today, completed topic of:  
+• Counting Functions 

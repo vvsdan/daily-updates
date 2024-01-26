@@ -222,3 +222,8 @@ Power BI topics completed today:
 ### 24 Jan 2024  
 Short day for Power BI today, completed topic of:  
 • Counting Functions 
+
+-------------------------------------------------------------------------------
+### 25 Jan 2024   
+Power BI:   
+• Completed assignment to create new measures to determine how many unique customers are within a table -- (Used DISTINCTCOUNT on the Customer Key in Customers table) and the return rate of products -- (Used DIVIDE on quantity returned and quantity sold).

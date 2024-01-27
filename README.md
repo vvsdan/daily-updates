@@ -227,3 +227,9 @@ Short day for Power BI today, completed topic of:
 ### 25 Jan 2024   
 Power BI:   
 • Completed assignment to create new measures to determine how many unique customers are within a table -- (Used DISTINCTCOUNT on the Customer Key in Customers table) and the return rate of products -- (Used DIVIDE on quantity returned and quantity sold).
+-------------------------------------------------------------------------------
+### 26 Jan 2024   
+Power BI:    
+• Went over logical/conditional operators in DAX with some examples.
+• Went over the SWITCH operator along with it's restrictions for instance only being able to use strings -- workaround was to use TRUE()  
+• Completed assignments to i) Create a new column marking 'Customer Priority' based on income with > $100,000 being high priority, otherwise marked as standard. ii) Separating customers into different income levels of Very High, High, Average, and Low based on annual income. iii) Creating a column based on customer education levels 

@@ -233,3 +233,10 @@ Power BI:
 • Went over logical/conditional operators in DAX with some examples.
 • Went over the SWITCH operator along with it's restrictions for instance only being able to use strings -- workaround was to use TRUE()  
 • Completed assignments to i) Create a new column marking 'Customer Priority' based on income with > $100,000 being high priority, otherwise marked as standard. ii) Separating customers into different income levels of Very High, High, Average, and Low based on annual income. iii) Creating a column based on customer education levels 
+
+-------------------------------------------------------------------------------
+### 27 Jan 2024   
+Power BI:    
+• Went through common text functions: LEN, CONCATENATE, UPPER/LOWER, LEFT/MID/RIGHT, SUBSTITUTE, SEARCH   
+• Completed an assignment based on text functions. i) To create a new calendar column that would return the first 3 characters for each month (Used LEFT 'Calendar Lookup'Month Name, 3 and wrapped this in the UPPER function). ii) Part two was to extract any number of characters before the first hyphen in a SKU (Used SEARCH function which was wrapped between the Product Lookup SKU and "-1").
+

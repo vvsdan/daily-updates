@@ -240,3 +240,9 @@ Power BI:
 • Went through common text functions: LEN, CONCATENATE, UPPER/LOWER, LEFT/MID/RIGHT, SUBSTITUTE, SEARCH   
 • Completed an assignment based on text functions. i) To create a new calendar column that would return the first 3 characters for each month (Used LEFT 'Calendar Lookup'Month Name, 3 and wrapped this in the UPPER function). ii) Part two was to extract any number of characters before the first hyphen in a SKU (Used SEARCH function which was wrapped between the Product Lookup SKU and "-1").
 
+-------------------------------------------------------------------------------
+### 27 Jan 2024   
+No progress today.
+
+
+

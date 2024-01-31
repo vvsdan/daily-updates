@@ -241,12 +241,20 @@ Power BI:
 • Completed an assignment based on text functions. i) To create a new calendar column that would return the first 3 characters for each month (Used LEFT 'Calendar Lookup'Month Name, 3 and wrapped this in the UPPER function). ii) Part two was to extract any number of characters before the first hyphen in a SKU (Used SEARCH function which was wrapped between the Product Lookup SKU and "-1").
 
 -------------------------------------------------------------------------------
-### 27 Jan 2024   
+### 28 Jan 2024   
 No progress today.
 
 -------------------------------------------------------------------------------
-### 28 Jan 2024   
+### 29 Jan 2024   
 No progress today.
+
+-------------------------------------------------------------------------------
+### 39 Jan 2024  
+Power BI: 
+• Explored basic time/date functions (TODAY/NOW, DAY/MONTH/YEAR, HOUR/MINUTE/SECOND, WEEKDAY/WEEKNUM, EOMONTH, DATEDIFF) 
+• Worked through practice problems assigning days of the week with with WEEKDAY, and creating a column  specifying weekend or weekday 
+• Completed an assignment to extract birth years from a customer table 
+• Practiced and learned how to use RELATED() 
 
 
 

@@ -249,12 +249,14 @@ No progress today.
 No progress today.
 
 -------------------------------------------------------------------------------
-### 39 Jan 2024  
+### 30 Jan 2024  
 Power BI: 
 • Explored basic time/date functions (TODAY/NOW, DAY/MONTH/YEAR, HOUR/MINUTE/SECOND, WEEKDAY/WEEKNUM, EOMONTH, DATEDIFF) 
 • Worked through practice problems assigning days of the week with with WEEKDAY, and creating a column  specifying weekend or weekday 
 • Completed an assignment to extract birth years from a customer table 
-• Practiced and learned how to use RELATED() 
+• Practiced and learned how to use RELATED()  
 
-
+-------------------------------------------------------------------------------
+### 31 Jan 2024  
+• Worked on using the CALCULATE() function and ran through some examples. i) To calculate "Bulk Orders" for products, being products with order quantities > 1.  ii) To calculate the number of orders completed on weekends versus weekdays.
 

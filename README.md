@@ -260,3 +260,20 @@ Power BI:
 ### 31 Jan 2024  
 • Worked on using the CALCULATE() function and ran through some examples. i) To calculate "Bulk Orders" for products, being products with order quantities > 1.  ii) To calculate the number of orders completed on weekends versus weekdays.
 
+-------------------------------------------------------------------------------  
+### 1 Feb 2024  
+Changed it up today with some Javascript Practice/Review questions from Github user: sudheerj  
+Questions reviewed:  
+• Explaining arrow functions  
+• Explaining what a first class function is  
+• Explaining what a first order function is  
+• Explaining what a higher order function is   
+• Explaining what a unary function is  
+• Explaining what currying function is  
+• Explaining what a pure function is  
+• Explaining the purpose of theft keyword  
+• The difference between let and var  
+• The reason to choose the name let as a keyword  
+• How to redeclare variables in a switch block without an error  
+• Explaining what the Temporal Dead Zone is    
+• Explaining what an IIFE (Immediately Invoked Function Expression) is   

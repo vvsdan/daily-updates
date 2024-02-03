@@ -275,5 +275,19 @@ Questions reviewed:
 • The difference between let and var  
 • The reason to choose the name let as a keyword  
 • How to redeclare variables in a switch block without an error  
-• Explaining what the Temporal Dead Zone is    
-• Explaining what an IIFE (Immediately Invoked Function Expression) is   
+
+### 2 Feb 2024  
+Continued some Javascript practice questions, reviewed: 
+• How to decode/encode a URL in JS  
+• Explaining what memoization is  
+• Explaining hoisting
+• Explaining what classes in ES6 are
+• Explaining closures  
+• Describing modules and why they are needed
+• Scope in JS 
+• Manipulating the DOM using a service worker 
+• How to reuse information across service worker restarts  
+• Describing IndexedDB 
+• Went over web storage (local storage and session storage)
+• Explaining what a post message is  
+• Explaining what a cookie is, why they're needed, the options in them, and how to delete them 

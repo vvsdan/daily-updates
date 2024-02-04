@@ -276,6 +276,7 @@ Questions reviewed:
 • The reason to choose the name let as a keyword  
 • How to redeclare variables in a switch block without an error  
 
+-------------------------------------------------------------------------------  
 ### 2 Feb 2024  
 Continued some Javascript practice questions, reviewed: 
 • How to decode/encode a URL in JS  
@@ -291,3 +292,13 @@ Continued some Javascript practice questions, reviewed:
 • Went over web storage (local storage and session storage)
 • Explaining what a post message is  
 • Explaining what a cookie is, why they're needed, the options in them, and how to delete them 
+
+-------------------------------------------------------------------------------  
+### 3 Feb 2024   
+Continued some Javascript practice questions, reviewed: 
+• Compared cookies, local storage, and dession storage features  
+• Described the main difference between local and session storage  
+• How to access web storage  
+• Went over the metrhods available on web storage 
+• Explained what a storage event and its event handler are  
+• Explained why we need web storage   

@@ -302,3 +302,11 @@ Continued some Javascript practice questions, reviewed:
 • Went over the metrhods available on web storage 
 • Explained what a storage event and its event handler are  
 • Explained why we need web storage   
+
+-------------------------------------------------------------------------------  
+### 4 Feb 2024   
+Continued some Javascript practice questions, reviewed: 
+• How to check web storage browser support  
+• How to check web workers browser support 
+• The restrictions of web workers on the DOM 
+• Reviewed promises, why they're needed, and the three states of them (pendidng, fulfilled, rejected) 

@@ -310,3 +310,10 @@ Continued some Javascript practice questions, reviewed:
 • How to check web workers browser support 
 • The restrictions of web workers on the DOM 
 • Reviewed promises, why they're needed, and the three states of them (pendidng, fulfilled, rejected) 
+
+-------------------------------------------------------------------------------  
+### 5 Feb 2024
+Only reviewed callbacks today
+• Describing what a callback function is 
+• Explaining why we need callbacks
+• What callback hell is 

@@ -300,20 +300,33 @@ Continued some Javascript practice questions, reviewed:
 • Described the main difference between local and session storage  
 • How to access web storage  
 • Went over the metrhods available on web storage 
-• Explained what a storage event and its event handler are  
-• Explained why we need web storage   
+• Explained what a storage event and its event handler are    
+• Explained why we need web storage     
 
 -------------------------------------------------------------------------------  
-### 4 Feb 2024   
-Continued some Javascript practice questions, reviewed: 
-• How to check web storage browser support  
-• How to check web workers browser support 
-• The restrictions of web workers on the DOM 
-• Reviewed promises, why they're needed, and the three states of them (pendidng, fulfilled, rejected) 
+### 4 Feb 2024     
+Continued some Javascript practice questions, reviewed:   
+• How to check web storage browser support    
+• How to check web workers browser support   
+• The restrictions of web workers on the DOM   
+• Reviewed promises, why they're needed, and the three states of them (pendidng, fulfilled, rejected)   
 
--------------------------------------------------------------------------------  
-### 5 Feb 2024
-Only reviewed callbacks today
-• Describing what a callback function is 
-• Explaining why we need callbacks
-• What callback hell is 
+-------------------------------------------------------------------------------    
+### 5 Feb 2024  
+Only reviewed callbacks today  
+• Describing what a callback function is   
+• Explaining why we need callbacks   
+• What callback hell is  
+
+-------------------------------------------------------------------------------    
+### 6 Feb 2024  
+Continued some more JS questions/review   
+• Explaining what server-sent events are   
+• Receiving server-sent event notifications  
+• How to check browser support for server-sent events  
+• Comparing the events available for server sent events   
+• Explaining the main rules of a promise   
+• Explaining what a callback in a callback is   
+• Explaining promise chaining   
+• Explaining what promise.all is   
+• What the prupose of the race method in promise is  

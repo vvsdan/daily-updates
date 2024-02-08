@@ -330,3 +330,10 @@ Continued some more JS questions/review
 • Explaining promise chaining   
 • Explaining what promise.all is   
 • What the prupose of the race method in promise is  
+
+-------------------------------------------------------------------------------    
+### 7 Feb 2024  
+Very brief JS review day: 
+• Reviewed strict mode  
+• Why strict mode is needed  
+• How to declare strict mode  

@@ -337,3 +337,22 @@ Very brief JS review day:
 • Reviewed strict mode  
 • Why strict mode is needed  
 • How to declare strict mode  
+
+-------------------------------------------------------------------------------      
+### 8 Feb 2024  
+Continued JS questions/review:   
+• Explaining the purpose of double exclamation    
+• Explaining the purpose of the delete operator    
+• Explaining what the typeof operator is    
+• Defining the undefined property  
+• Defining what null value is    
+• Comparing the differences between null and undefined   
+• Explaining what eval() is   
+• Comparing the differences between window and document  
+• How to access history in Javascript  
+• How to detect caps lock key turned on or not  
+• Explaining what NaN is  
+• Explaining what the differences between undeclared and undefined variables is  
+• Describing what global variables are  
+• Explaining the problems with global variables  
+• Explaining what a NaN propert is  

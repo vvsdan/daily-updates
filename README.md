@@ -356,3 +356,12 @@ Continued JS questions/review:
 • Describing what global variables are  
 • Explaining the problems with global variables  
 • Explaining what a NaN propert is  
+
+-------------------------------------------------------------------------------      
+### 9 Feb 2024   
+Continued JS questions/review:     
+• Explaining what the purpose of isFinite function is  
+• Explaining what an event flow is  
+• Describing event bubbling  
+• Describing event capturing  
+• Explaining how to submit a form using JS  

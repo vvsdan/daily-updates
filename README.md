@@ -364,4 +364,12 @@ Continued JS questions/review:
 • Explaining what an event flow is  
 • Describing event bubbling  
 • Describing event capturing  
+
+-------------------------------------------------------------------------------      
+### 10 Feb 2024   
+Short JS day review day
+• Submitting forms using Javascript  
+• How to find operating system details in JS  
+• Comparing the difference between document load and DOMContentLoaded events  
+
 • Explaining how to submit a form using JS  

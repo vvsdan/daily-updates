@@ -371,5 +371,11 @@ Short JS day review day
 • Submitting forms using Javascript  
 • How to find operating system details in JS  
 • Comparing the difference between document load and DOMContentLoaded events  
+• Explaining how to submit a form using JS 
 
-• Explaining how to submit a form using JS  
+-------------------------------------------------------------------------------        
+### 11 Feb 2024    
+Another short day for JS review  
+• Explaining the difference betwen native, host, and user objects  
+• Listing tools/techniques used for debugging JS code   
+• Comparing the pros and cons of promises over callbacks  

@@ -379,3 +379,10 @@ Another short day for JS review
 • Explaining the difference betwen native, host, and user objects  
 • Listing tools/techniques used for debugging JS code   
 • Comparing the pros and cons of promises over callbacks  
+
+-------------------------------------------------------------------------------        
+### 11 Feb 2024  
+Some JS today
+• Comparing differences between attributes and properties
+• Explaining same-origin policy
+• Explaining the purpose of void 0

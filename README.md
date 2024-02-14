@@ -381,8 +381,16 @@ Another short day for JS review
 • Comparing the pros and cons of promises over callbacks  
 
 -------------------------------------------------------------------------------        
-### 11 Feb 2024  
+### 12 Feb 2024  
 Some JS today
 • Comparing differences between attributes and properties
 • Explaining same-origin policy
 • Explaining the purpose of void 0
+
+-------------------------------------------------------------------------------        
+### 13 Feb 2024    
+Some JS questions/review  
+• Explaining that JS is an interpreted language 
+• Explaining that JS is case sensitive language
+• Explaining that there is no relationship between Java and Javascript
+• Explaining what events are  

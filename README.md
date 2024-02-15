@@ -394,3 +394,7 @@ Some JS questions/review
 • Explaining that JS is case sensitive language
 • Explaining that there is no relationship between Java and Javascript
 • Explaining what events are  
+
+-------------------------------------------------------------------------------        
+### 14 Feb 2024   
+No progress today

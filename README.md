@@ -398,3 +398,14 @@ Some JS questions/review
 -------------------------------------------------------------------------------        
 ### 14 Feb 2024   
 No progress today
+
+-------------------------------------------------------------------------------        
+### 15 Feb 2024 
+JS today:   
+• Learned who create JS   
+• Explaining the use of preventDefault method    
+• Explaining the use of stopPropagation method  
+• Explaining the steps involved in return false usage  
+• Explaining what the BOM is  
+• Explaining the use of setTimeout  
+• Explaining the use of setInterval  

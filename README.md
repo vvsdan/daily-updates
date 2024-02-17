@@ -408,4 +408,8 @@ JS today:
 • Explaining the steps involved in return false usage  
 • Explaining what the BOM is  
 • Explaining the use of setTimeout  
+
+-------------------------------------------------------------------------------        
+### 16 Feb 2024 
+No progress today.
 • Explaining the use of setInterval  

@@ -408,8 +408,23 @@ JS today:
 • Explaining the steps involved in return false usage  
 • Explaining what the BOM is  
 • Explaining the use of setTimeout  
+• Explaining the use of setInterval  
 
 -------------------------------------------------------------------------------        
 ### 16 Feb 2024 
 No progress today.
-• Explaining the use of setInterval  
+
+-------------------------------------------------------------------------------        
+### 17 Feb 2024 
+JS questions/review for today: 
+• Explaining why JS is treated as Single threaded
+• Explaining event delegation
+• Explaining what ECMAScript is
+• Explaining what JSON is 
+• Explaining the syntax rules of JSON
+• Explaining the purpose of JSON stringify
+• Explaining how to parse JSON string
+• Explaining why JSON is needed
+• Explaining what PWAs are
+• Explainign the purpose of clearTimeout method
+• Explaining the purpose of clearInterval method

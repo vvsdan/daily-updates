@@ -427,8 +427,13 @@ JS questions/review for today:
 • Explaining why JSON is needed
 • Explaining what PWAs are
 • Explainign the purpose of clearTimeout method
+• Explaining the purpose of clearInterval method
 
 -------------------------------------------------------------------------------        
 ### 18 Feb 2024 
 No progress today.
-• Explaining the purpose of clearInterval method
+
+
+-------------------------------------------------------------------------------        
+### 19 Feb 2024 
+No progress today.

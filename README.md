@@ -437,3 +437,20 @@ No progress today.
 -------------------------------------------------------------------------------        
 ### 19 Feb 2024 
 No progress today.
+
+
+-------------------------------------------------------------------------------        
+### 20 Feb 2024  
+Got back to JS today with questions/review completed:    
+• Redirecting to a new page in Javascript  
+• How to check whether a string contains a substring  
+• Validating an email in JS   
+• How ot get the current URL with Javascript  
+• The various URL properties of location object  
+• How to get query string values in JS  
+• Explaining hwo to check if a key exists in an object  
+• How to loop through or enumerate JS objects  
+• How to test for an empty object 
+• Explaining what an arguments object is  
+• How to make the first letter of a string in uppercase  
+• Comparing the pros and cons of the for loop   

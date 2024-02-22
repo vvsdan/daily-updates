@@ -433,11 +433,9 @@ JS questions/review for today:
 ### 18 Feb 2024 
 No progress today.
 
-
 -------------------------------------------------------------------------------        
 ### 19 Feb 2024 
 No progress today.
-
 
 -------------------------------------------------------------------------------        
 ### 20 Feb 2024  
@@ -454,3 +452,17 @@ Got back to JS today with questions/review completed:
 • Explaining what an arguments object is  
 • How to make the first letter of a string in uppercase  
 • Comparing the pros and cons of the for loop   
+
+-------------------------------------------------------------------------------          
+### 21 Feb 2024   
+JS review/questions:
+• Displaying current time in Javascript    
+• Comparing two date objects  
+• Checking if a string starts with another stirng  
+• Trimming a string in JS     
+• Adding a key valur pair in JS   
+• Explaining !-- notation  
+• Assigning default values to variables  
+• Defining multiline strings  
+• Explaining what an app shell model is   
+• Defining properties for functions  

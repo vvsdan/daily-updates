@@ -466,3 +466,12 @@ JS review/questions:
 • Defining multiline strings  
 • Explaining what an app shell model is   
 • Defining properties for functions  
+
+-------------------------------------------------------------------------------           
+### 22 Feb 2024     
+More JS review/questions today:  
+• Determining finding the number of parameters expected by a function  
+• Explaining what a polyfill is  
+• Explaining break and continue statements  
+• Explaining what JS labels are   
+• Listing benefits of keeping declarationsa at the top  

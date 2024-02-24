@@ -475,3 +475,11 @@ More JS review/questions today:
 • Explaining break and continue statements  
 • Explaining what JS labels are   
 • Listing benefits of keeping declarationsa at the top  
+
+-------------------------------------------------------------------------------           
+### 23 Feb 2024     
+JS review/questions today:   
+• Benefits of initializing variables   
+• Reviewing the recommendations for creating a new object   
+• Defining JSON arrays   
+• Generating random integers  

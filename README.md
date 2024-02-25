@@ -483,3 +483,7 @@ JS review/questions today:
 • Reviewing the recommendations for creating a new object   
 • Defining JSON arrays   
 • Generating random integers  
+
+-------------------------------------------------------------------------------           
+### 24 Feb 2024     
+No progress today.

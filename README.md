@@ -495,3 +495,12 @@ No progress today.
 -------------------------------------------------------------------------------           
 ### 26 Feb 2024     
 No progress today.
+
+-------------------------------------------------------------------------------           
+### 27 Feb 2024    
+Back to JS with a few questions today: 
+Other thoughts: Will continue Power BI this week and try to finish course within the first half of may then gear focus towards completing AWS cert along with continuing practice questions. 
+• Explaining how to write a random integer function to print integers within a range
+• Explaining tree shaking
+• Explaining the need of tree shaking
+• Explaining why it isnt recommended to use eval

@@ -460,7 +460,7 @@ JS review/questions:
 • Comparing two date objects  
 • Checking if a string starts with another stirng  
 • Trimming a string in JS     
-• Adding a key valur pair in JS   
+• Adding a key valur pair in JS  
 • Explaining !-- notation  
 • Assigning default values to variables  
 • Defining multiline strings  
@@ -504,3 +504,19 @@ Other thoughts: Will continue Power BI this week and try to finish course within
 • Explaining tree shaking
 • Explaining the need of tree shaking
 • Explaining why it isnt recommended to use eval
+
+-------------------------------------------------------------------------------           
+### 28 Feb 2024   
+Continuing JS questions:  
+• Explaining what a regular expression is  
+• Explaining which string methods are available in regular expression  
+• Explaining what modifiers are in regular expression  
+• Going over regular expression patterns  
+• Explaining what RegExp object is  
+• Determining how to search a string for a pattern  
+• Explaining the purpose of exec method  
+• Explaining how to change the style of an HTML element  
+• Determining what the result of: 1 + 2 " '3' would be   
+• Explaining what a debugger statement is  
+• Explainign the purpose of breakpoints in debugging  
+• Explaining why reserved words cannot be used as identifiers  

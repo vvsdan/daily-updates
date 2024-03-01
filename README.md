@@ -1,4 +1,4 @@
-# daily-updates
+u# daily-updates
 
 This repo/README file is meant to serve as a journey for documenting work I do daily, problems solved, tasks completed, or challenges faced in my learning. 
 
@@ -520,3 +520,11 @@ Continuing JS questions:
 • Explaining what a debugger statement is  
 • Explainign the purpose of breakpoints in debugging  
 • Explaining why reserved words cannot be used as identifiers  
+
+-------------------------------------------------------------------------------           
+### 29 Feb 2024  
+Leap Year! 🥳   
+Continued with a few JS questions:   
+• Detecting a mobile browser  
+• Detecting a mobile browser without regexp  
+• Explaining how to get image width and height using JS  

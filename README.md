@@ -1,4 +1,4 @@
-u# daily-updates
+# daily-updates
 
 This repo/README file is meant to serve as a journey for documenting work I do daily, problems solved, tasks completed, or challenges faced in my learning. 
 
@@ -528,3 +528,16 @@ Continued with a few JS questions:
 • Detecting a mobile browser  
 • Detecting a mobile browser without regexp  
 • Explaining how to get image width and height using JS  
+
+-------------------------------------------------------------------------------           
+### 1 March 2024  
+Changed things up again today! Other projects/review/prep are temporarily on hold.
+Creating a vanilla JS project which I will potentially be presenting in front of an audience. 
+The due date is 8 March 2024 so I started right away.
+Completed today:
+• Selected font to fit portfolio
+• Adjusted global CSS settings
+• Created navbar
+• Chose color palette to use throughout the site 
+• Added hover effect to navbar links (working on add/remove active class based on page user is on)
+• Created base layout for pages -- portrait/landscape/about/contact 

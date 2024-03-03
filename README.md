@@ -541,3 +541,7 @@ Completed today:
 • Chose color palette to use throughout the site 
 • Added hover effect to navbar links (working on add/remove active class based on page user is on)
 • Created base layout for pages -- portrait/landscape/about/contact 
+
+-------------------------------------------------------------------------------           
+### 2 March 2024 
+Continued portfolio work. Finished the text in the 'About Me' section, resolved issue trying to highlight the active page in the navbar. Next big step is implementing images.

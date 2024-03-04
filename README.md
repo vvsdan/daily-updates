@@ -545,3 +545,7 @@ Completed today:
 -------------------------------------------------------------------------------           
 ### 2 March 2024 
 Continued portfolio work. Finished the text in the 'About Me' section, resolved issue trying to highlight the active page in the navbar. Next big step is implementing images.
+
+-------------------------------------------------------------------------------           
+### 3 March 2024
+No progress today, work and other responsibilities. 

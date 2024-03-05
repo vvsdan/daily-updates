@@ -544,8 +544,18 @@ Completed today:
 
 -------------------------------------------------------------------------------           
 ### 2 March 2024 
-Continued portfolio work. Finished the text in the 'About Me' section, resolved issue trying to highlight the active page in the navbar. Next big step is implementing images.
+Continued portfolio work. Finished the text in the 'About Me' section, resolved the issue trying to highlight the active page in the navbar. The next big step is implementing images.
 
 -------------------------------------------------------------------------------           
 ### 3 March 2024
 No progress today, work and other responsibilities. 
+-------------------------------------------------------------------------------           
+### 4 March 2024
+Spent some more time on the portfolio project.
+• Went through and started first round of collecting photos from Google drive
+• Cropped and compressed images to be at least <500kb
+• Uploaded my portraits into an S3 bucket 
+• Added images to portfolio website
+• Added responsive hamburger menu for tablet/mobile displays 
+• Fixed alignment of navbar links
+• Added Favicon 

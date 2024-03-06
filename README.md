@@ -544,18 +544,40 @@ Completed today:
 
 -------------------------------------------------------------------------------           
 ### 2 March 2024 
-Continued portfolio work. Finished the text in the 'About Me' section, resolved the issue trying to highlight the active page in the navbar. The next big step is implementing images.
+Continued portfolio work. Finished the text in the 'About Me' section, and resolved the issue by trying to highlight the active page in the navbar. The next big step is implementing images.
 
 -------------------------------------------------------------------------------           
 ### 3 March 2024
-No progress today, work and other responsibilities. 
+No progress today, work, and other responsibilities. 
 -------------------------------------------------------------------------------           
 ### 4 March 2024
 Spent some more time on the portfolio project.
-• Went through and started first round of collecting photos from Google drive
+• Went through and started the first round of collecting photos from Google Drive
 • Cropped and compressed images to be at least <500kb
 • Uploaded my portraits into an S3 bucket 
 • Added images to portfolio website
 • Added responsive hamburger menu for tablet/mobile displays 
 • Fixed alignment of navbar links
 • Added Favicon 
+
+-------------------------------------------------------------------------------           
+### 5 March 2024
+Continued to work on the portfolio project  
+• Uploaded the rest of the photos for the primary portrait page (~total around 60 portraits)
+• Made nav sticky upon scrolling with some opacity  
+• Updated the "Projects" page with 2 sets of different photosets
+• Added some landscape photos (~9 images)
+• Minor bug fixes around the navbar, particularly in the smallest device size media query 
+
+ Next goals:  
+ • Revisit the "About Me" page, add an image of myself, and see if potential to add a fun API element.
+ • Complete the contact page (perhaps a fun API element could go here) 
+ • Add one more project to the "Projects" page
+
+ Bonuses if there is time: 
+ • Put some of the projects into a carousel built with JS 
+ • Make and add a logo to the navbar 
+ • Create a light mode version (very extra) 
+
+ 
+ 

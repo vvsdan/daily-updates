@@ -579,5 +579,13 @@ Continued to work on the portfolio project
  • Make and add a logo to the navbar 
  • Create a light mode version (very extra) 
 
- 
- 
+ -------------------------------------------------------------------------------           
+### 6 March 2024
+Continued to work on the portfolio project 
+• Added Ecosusi project
+• Finished "About Me" page revisions with an added contact button 
+• Completed contact form 
+
+At this point, the portfolio project is pretty well done. 
+May just add a small easter egg API giving either a fun fact about space (in my about page), or something along these lines. 
+Next is creating a power point about this project!

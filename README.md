@@ -589,3 +589,7 @@ Continued to work on the portfolio project
 At this point, the portfolio project is pretty well done. 
 May just add a small easter egg API giving either a fun fact about space (in my about page), or something along these lines. 
 Next is creating a power point about this project!
+
+ -------------------------------------------------------------------------------           
+### 7 March 2024
+No new progress for today.

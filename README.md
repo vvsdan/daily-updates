@@ -593,3 +593,21 @@ Next is creating a power point about this project!
  -------------------------------------------------------------------------------           
 ### 7 March 2024
 No new progress for today.
+
+ -------------------------------------------------------------------------------           
+### 8 March 2024
+Completed first draft of photography portfolio website and uploaded to Netlify: 
+The live project is found [here](https://isodan.netlify.app)
+Just a starter, certainly room to improve. Made with plain HTML/CSS/JS. 
+
+ -------------------------------------------------------------------------------           
+### 9 March 2024
+No progress today.
+ 
+ -------------------------------------------------------------------------------           
+### 10 March 2024
+No progress today.
+
+ -------------------------------------------------------------------------------           
+### 11 March 2024
+No progress today.
